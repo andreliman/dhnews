@@ -1,0 +1,59 @@
+body {
+  font-family: "Rajdhani", sans-serif;
+}
+
+.container {
+    width: 100%;
+    max-width: 800px;
+    margin: 0 auto;
+}
+
+/* header {
+  width: 800px;
+  margin: 0 auto;
+} */
+
+#title {
+  color: #ec183f;
+  font-size: 45px;
+  margin-bottom: 0;
+  line-height: 0.7;
+}
+
+/* header h1 {
+    color: #ec183f;
+    font-size: 45px;
+} */
+
+main {
+  width: 800px;
+  margin: 0 auto;
+  border-bottom: solid 1px #ccc;
+  padding-bottom: 40px;
+  margin-bottom: 20px;
+  text-align: justify;
+}
+
+section > img {
+  width: 100%;
+}
+
+/* footer {
+  width: 800px;
+  margin: 0 auto;
+} */
+
+ul.redes-sociais {
+  list-style: none;
+  padding: 0;
+  text-align: center;
+}
+
+ul.redes-sociais li {
+  display: inline-block;
+  margin: 0 10px;
+}
+
+ul.redes-sociais li img{
+    width: 50px;
+  }
